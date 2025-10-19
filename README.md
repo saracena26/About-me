@@ -8,7 +8,7 @@ I’m a Cybersecurity, Networking, and Cloud student building a strong IT founda
 💡 Skills & Learning Path:  
 - IT Fundamentals: Basic OS, Hardware, Networking, and Troubleshooting  
 - Cybersecurity Principles: CIA Triad, AAA, Risk Management  
-- Cloud Technologies: AWS, Security Best Practices for Cloud Enviroments 
+- Cloud Technologies: AWS, Security Best Practices for Cloud Environments 
 - Security Tools: Wireshark, Nmap, Kali Linux, Snort, Wazzuh 
 
 📂 Projects & Labs:  
@@ -20,7 +20,6 @@ I’m a Cybersecurity, Networking, and Cloud student building a strong IT founda
 - Cisco Network Basics | https://www.credly.com/badges/2360e583-9b43-4cba-930b-9f0eb44bab14/public_url
 - AWS Cloud Practitioner | https://www.credly.com/badges/d979968c-5928-44cf-9eb0-a3191a3572f9/public_url
 - CompTIA IT A+ | https://www.credly.com/badges/d6af07d3-5d41-4613-b033-62b6e8e58427
-- 
 
 🚀 **Next Steps:**  
 - Document hands-on labs and security projects  
